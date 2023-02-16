@@ -1,8 +1,10 @@
 /**
  * @module
  * @author Ophir LOJKINE
+ * @author Thibaud MICHEL
  * 
  * salesman npm module
+ * Modified by Wemap (thibaud@getwemap.com) to add ts
  *
  * Good heuristic for the traveling salesman problem using simulated annealing.
  * @see {@link https://lovasoa.github.io/salesman.js/|demo}
