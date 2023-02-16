@@ -1,6 +1,6 @@
 {
   "name": "@wemap/salesman.js",
-  "version": "2.0.4",
+  "version": "2.1.0",
   "description": "Solves the traveling salesman problem using simulated annealing.",
   "main": "salesman.js",
   "types": "salesman.d.ts",
